@@ -2,7 +2,9 @@ RENCANA KKONTEN DWIPA
 
 -VLOG
  *jalan2
+  <maros
  *minum2
+  <susu
 -PODCAST
 -BLLOKKK!
 -programming video
