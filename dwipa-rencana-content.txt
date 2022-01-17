@@ -1,10 +1,11 @@
 RENCANA KKONTEN DWIPA
 
 -VLOG
+-REACT
  *jalan2
-  <makassar
+  <maros
  *minum2
-  <air
+  <susu
 -PODCAST
 -BLLOKKK!
 -programming video
