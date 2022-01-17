@@ -1,6 +1,8 @@
 RENCANA KKONTEN DWIPA
 
 -VLOG
+ *jalan2
+ *minum2
 -PODCAST
 -BLLOKKK!
 -programming video
