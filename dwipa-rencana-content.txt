@@ -2,7 +2,9 @@ RENCANA KKONTEN DWIPA
 
 -VLOG
  *jalan2
+  <makassar
  *minum2
+  <air
 -PODCAST
 -BLLOKKK!
 -programming video
